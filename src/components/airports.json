@@ -1,0 +1,546 @@
+[
+    {
+      "name": "Hartsfield-Jackson Atlanta International Airport",
+      "city": "Atlanta",
+      "country": "United States",
+      "iata": "ATL",
+      "lat": 33.636719,
+      "lng": -84.428067
+    },
+    {
+      "name": "Los Angeles International Airport",
+      "city": "Los Angeles",
+      "country": "United States", 
+      "iata": "LAX",
+      "lat": 33.942536,
+      "lng": -118.408075
+    },
+    {
+      "name": "O'Hare International Airport",
+      "city": "Chicago",
+      "country": "United States",
+      "iata": "ORD",
+      "lat": 41.978603,
+      "lng": -87.904842
+    },
+    {
+      "name": "London Heathrow Airport",
+      "city": "London",
+      "country": "United Kingdom",
+      "iata": "LHR",
+      "lat": 51.4775,
+      "lng": -0.461389
+    },
+    {
+      "name": "Tokyo Haneda Airport",
+      "city": "Tokyo",
+      "country": "Japan",
+      "iata": "HND", 
+      "lat": 35.552258,
+      "lng": 139.779694
+    },
+    {
+      "name": "Paris Charles de Gaulle Airport",
+      "city": "Paris",
+      "country": "France",
+      "iata": "CDG",
+      "lat": 49.012779,
+      "lng": 2.55
+    },
+    {
+      "name": "Frankfurt Airport",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "iata": "FRA",
+      "lat": 50.026421,
+      "lng": 8.543125
+    },
+    {
+      "name": "Beijing Capital International Airport",
+      "city": "Beijing", 
+      "country": "China",
+      "iata": "PEK",
+      "lat": 40.080111,
+      "lng": 116.584556
+    },
+    {
+      "name": "Dubai International Airport", 
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "iata": "DXB",
+      "lat": 25.252778,
+      "lng": 55.364444
+    },
+    {
+      "name": "Singapore Changi Airport",
+      "city": "Singapore",
+      "country": "Singapore",
+      "iata": "SIN",
+      "lat": 1.350189,	
+      "lng": 103.994433
+    },
+    {
+      "name": "John F. Kennedy International Airport",
+      "city": "New York",
+      "country": "United States",
+      "iata": "JFK",
+      "lat": 40.641311,
+      "lng": -73.778139
+    },
+    {
+      "name": "Amsterdam Airport Schiphol",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "iata": "AMS",
+      "lat": 52.3105,
+      "lng": 4.7683
+    },
+    {
+      "name": "Seoul Incheon International Airport",
+      "city": "Seoul",
+      "country": "South Korea",
+      "iata": "ICN",
+      "lat": 37.460191,
+      "lng": 126.440696
+    },
+    {
+      "name": "Hong Kong International Airport",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "iata": "HKG",
+      "lat": 22.308919,
+      "lng": 113.929046
+    },
+    {
+      "name": "Toronto Pearson International Airport",
+      "city": "Toronto",
+      "country": "Canada",
+      "iata": "YYZ",
+      "lat": 43.677223,
+      "lng": -79.630556
+    },
+    {
+      "name": "Sydney Kingsford Smith Airport",
+      "city": "Sydney",
+      "country": "Australia",
+      "iata": "SYD",
+      "lat": -33.946111,
+      "lng": 151.177222
+    },
+    {
+      "name": "Istanbul Airport",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "iata": "IST",
+      "lat": 41.261306,
+      "lng": 28.714361
+    },
+    {
+      "name": "Suvarnabhumi Airport",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "iata": "BKK",
+      "lat": 13.681111,
+      "lng": 100.747222
+    },
+    {
+      "name": "Mumbai Chhatrapati Shivaji Maharaj International Airport",
+      "city": "Mumbai",
+      "country": "India",
+      "iata": "BOM",
+      "lat": 19.089722,
+      "lng": 72.867222
+    },
+    {
+      "name": "Mexico City International Airport",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "iata": "MEX",
+      "lat": 19.436303,
+      "lng": -99.072097
+    },
+    {
+      "name": "San Francisco International Airport",
+      "city": "San Francisco",
+      "country": "United States",
+      "iata": "SFO",
+      "lat": 37.618972,
+      "lng": -122.375278
+    },
+    {
+      "name": "Madrid-Barajas Adolfo Suárez Airport",
+      "city": "Madrid",
+      "country": "Spain",
+      "iata": "MAD",
+      "lat": 40.493556,
+      "lng": -3.567111
+    },
+    {
+      "name": "Manchester Airport",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "iata": "MAN",
+      "lat": 53.353744,
+      "lng": -2.274751
+    },
+    {
+      "name": "Cairo International Airport",
+      "city": "Cairo",
+      "country": "Egypt",
+      "iata": "CAI",
+      "lat": 30.121459,
+      "lng": 31.405677
+    },
+    {
+      "name": "Kuala Lumpur International Airport",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "iata": "KUL",
+      "lat": 2.745578,
+      "lng": 101.709917
+    },
+    {
+      "name": "Copenhagen Airport",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "iata": "CPH",
+      "lat": 55.617911,
+      "lng": 12.656233
+    },
+    {
+      "name": "São Paulo–Guarulhos International Airport",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "iata": "GRU",
+      "lat": -23.435556,
+      "lng": -46.473056
+    },
+    {
+      "name": "Denver International Airport",
+      "city": "Denver",
+      "country": "United States",
+      "iata": "DEN",
+      "lat": 39.861656,
+      "lng": -104.673178
+    },
+    {
+      "name": "Shanghai Pudong International Airport",
+      "city": "Shanghai",
+      "country": "China",
+      "iata": "PVG",
+      "lat": 31.143403,
+      "lng": 121.805221
+    },
+    {
+      "name": "Vancouver International Airport",
+      "city": "Vancouver",
+      "country": "Canada",
+      "iata": "YVR",
+      "lat": 49.193002,
+      "lng": -123.181496
+    },
+    {
+      "name": "Zurich Airport",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "iata": "ZRH",
+      "lat": 47.464722,
+      "lng": 8.54
+    },
+    {
+      "name": "Dublin Airport",
+      "city": "Dublin",
+      "country": "Ireland",
+      "iata": "DUB",
+      "lat": 53.421333,
+      "lng": -6.270075
+    },
+    {
+      "name": "Johannesburg O.R. Tambo International Airport",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "iata": "JNB",
+      "lat": -26.133536,
+      "lng": 28.242188
+    },
+    {
+      "name": "Warsaw Chopin Airport",
+      "city": "Warsaw",
+      "country": "Poland",
+      "iata": "WAW",
+      "lat": 52.165778,
+      "lng": 20.967222
+    },
+    {
+      "name": "Brussels Airport",
+      "city": "Brussels",
+      "country": "Belgium",
+      "iata": "BRU",
+      "lat": 50.901389,
+      "lng": 4.484444
+    },
+    {
+      "name": "Tel Aviv Ben Gurion Airport",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "iata": "TLV",
+      "lat": 32.011361,
+      "lng": 34.886667
+    },
+    {
+      "name": "Vienna International Airport",
+      "city": "Vienna",
+      "country": "Austria",
+      "iata": "VIE",
+      "lat": 48.110278,
+      "lng": 16.569722
+    },
+    {
+      "name": "Qatar Airways Hub Hamad International Airport",
+      "city": "Doha",
+      "country": "Qatar",
+      "iata": "DOH",
+      "lat": 25.273056,
+      "lng": 51.608056
+    },
+    {
+      "name": "Philadelphia International Airport",
+      "city": "Philadelphia",
+      "country": "United States",
+      "iata": "PHL",
+      "lat": 39.871944,
+      "lng": -75.241139
+    },
+    {
+      "name": "Newark Liberty International Airport",
+      "city": "Newark",
+      "country": "United States",
+      "iata": "EWR",
+      "lat": 40.692556,
+      "lng": -74.168667
+    },
+    {
+      "name": "Lagos Murtala Muhammed International Airport",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "iata": "LOS",
+      "lat": 6.577369,
+      "lng": 3.321219
+    },
+    {
+      "name": "Moscow Sheremetyevo International Airport",
+      "city": "Moscow",
+      "country": "Russia",
+      "iata": "SVO",
+      "lat": 55.972642,
+      "lng": 37.414601
+    },
+    {
+      "name": "Lima Jorge Chávez International Airport",
+      "city": "Lima",
+      "country": "Peru",
+      "iata": "LIM",
+      "lat": -12.021889,
+      "lng": -77.114358
+    },
+    {
+      "name": "Oslo Airport, Gardermoen",
+      "city": "Oslo",
+      "country": "Norway",
+      "iata": "OSL",
+      "lat": 60.193286,
+      "lng": 11.100448
+    },
+    {
+      "name": "Helsinki Airport",
+      "city": "Helsinki",
+      "country": "Finland",
+      "iata": "HEL",
+      "lat": 60.317222,
+      "lng": 24.963333
+    },
+    {
+      "name": "Lisbon Airport",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "iata": "LIS",
+      "lat": 38.781311,
+      "lng": -9.135631
+    },
+    {
+      "name": "Athens International Airport",
+      "city": "Athens",
+      "country": "Greece",
+      "iata": "ATH",
+      "lat": 37.936358,
+      "lng": 23.944467
+    },
+    {
+      "name": "Buenos Aires Ministro Pistarini International Airport",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "iata": "EZE",
+      "lat": -34.822222,
+      "lng": -58.535833
+    },
+    {
+      "name": "Santiago International Airport",
+      "city": "Santiago",
+      "country": "Chile",
+      "iata": "SCL",
+      "lat": -33.392972,
+      "lng": -70.792519
+    },
+    {
+      "name": "Milan Malpensa Airport",
+      "city": "Milan",
+      "country": "Italy",
+      "iata": "MXP",
+      "lat": 45.630556,
+      "lng": 8.728056
+    },
+    {
+      "name": "Rome Fiumicino Airport",
+      "city": "Rome",
+      "country": "Italy",
+      "iata": "FCO",
+      "lat": 41.804478,
+      "lng": 12.236153
+    },
+    {
+      "name": "Barcelona–El Prat Airport",
+      "city": "Barcelona",
+      "country": "Spain",
+      "iata": "BCN",
+      "lat": 41.297078,
+      "lng": 2.078464
+    },
+    {
+      "name": "Munich Airport",
+      "city": "Munich",
+      "country": "Germany",
+      "iata": "MUC",
+      "lat": 48.353783,
+      "lng": 11.786086
+    },
+    {
+      "name": "Berlin Brandenburg Airport",
+      "city": "Berlin",
+      "country": "Germany",
+      "iata": "BER",
+      "lat": 52.351389,
+      "lng": 13.493333
+    },
+    {
+      "name": "Venice Marco Polo Airport",
+      "city": "Venice",
+      "country": "Italy",
+      "iata": "VCE",
+      "lat": 45.505103,
+      "lng": 12.351425
+    },
+    {
+      "name": "Nice Côte d'Azur Airport",
+      "city": "Nice",
+      "country": "France",
+      "iata": "NCE",
+      "lat": 43.662176,
+      "lng": 7.21504
+    },
+    {
+      "name": "Lyon–Saint-Exupéry Airport",
+      "city": "Lyon",
+      "country": "France",
+      "iata": "LYS",
+      "lat": 45.726944,
+      "lng": 5.081111
+    },
+    {
+      "name": "Lisbon Airport",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "iata": "LIS",
+      "lat": 38.781311,
+      "lng": -9.135631
+    },
+    {
+      "name": "Porto Airport",
+      "city": "Porto",
+      "country": "Portugal",
+      "iata": "OPO",
+      "lat": 41.248055,
+      "lng": -8.681389
+    },
+    {
+      "name": "Malaga Airport",
+      "city": "Malaga",
+      "country": "Spain",
+      "iata": "AGP",
+      "lat": 36.674861,
+      "lng": -4.499125
+    },
+    {
+      "name": "Palma de Mallorca Airport",
+      "city": "Palma de Mallorca",
+      "country": "Spain",
+      "iata": "PMI",
+      "lat": 39.551783,
+      "lng": 2.739383
+    },
+    {
+      "name": "Heraklion International Airport",
+      "city": "Heraklion",
+      "country": "Greece",
+      "iata": "HER",
+      "lat": 35.339722,
+      "lng": 25.180278
+    },
+    {
+      "name": "Stockholm Arlanda Airport",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "iata": "ARN",
+      "lat": 59.651944,
+      "lng": 17.918611
+    },
+    {
+      "name": "Gothenburg-Landvetter Airport",
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "iata": "GOT",
+      "lat": 57.662833,
+      "lng": 12.276644
+    },
+    {
+      "name": "Budapest Ferenc Liszt International Airport",
+      "city": "Budapest",
+      "country": "Hungary",
+      "iata": "BUD",
+      "lat": 47.436933,
+      "lng": 19.255592
+    },
+    {
+      "name": "Bucharest Henri Coandă International Airport",
+      "city": "Bucharest",
+      "country": "Romania",
+      "iata": "OTP",
+      "lat": 44.572215,
+      "lng": 26.102619
+    },
+    {
+      "name": "Riga International Airport",
+      "city": "Riga",
+      "country": "Latvia",
+      "iata": "RIX",
+      "lat": 56.923611,
+      "lng": 23.971111
+    },
+    {
+      "name": "Billund Airport",
+      "city": "Billund",
+      "country": "Denmark",
+      "iata": "BLL",
+      "lat": 55.740456,
+      "lng": 9.151778
+    }
+]
